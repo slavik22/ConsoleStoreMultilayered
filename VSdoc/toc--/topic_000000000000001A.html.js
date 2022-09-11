@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000AF.html"],['73',"ConsoleUI.Menus Namespace","topic_0000000000000000.html"],['104',"UserMenu Class","topic_0000000000000019.html"],['107',"Properties","topic_0000000000000019_props--.html"],['108',"IsActive Property","topic_000000000000001A.html"]];
