@@ -5,6 +5,9 @@ using System.Linq;
 
 namespace Aplication.Services
 {
+    /// <summary>
+    /// User Service class
+    /// </summary>
     public class UserService
     {
         /// <summary>

@@ -4,6 +4,9 @@ using System.Collections.Generic;
 
 namespace Aplication.Services
 {
+    /// <summary>
+    /// ProductService class
+    /// </summary>
     public class ProductService
     {
         /// <summary>

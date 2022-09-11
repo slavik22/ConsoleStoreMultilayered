@@ -49,12 +49,33 @@ namespace Domain.Entities
     /// </summary>
     public enum OrderStatus
     {
+        /// <summary>
+        /// New order status
+        /// </summary>
         New,
+        /// <summary>
+        /// CanceledByAdmin status
+        /// </summary>
         CanceledByAdmin = 1,
+        /// <summary>
+        /// PaymentReceived status
+        /// </summary>
         PaymentReceived = 1,
+        /// <summary>
+        /// Sent status
+        /// </summary>
         Sent,
+        /// <summary>
+        /// Complete status
+        /// </summary>
         Complete,
+        /// <summary>
+        /// Received status
+        /// </summary>
         Received,
+        /// <summary>
+        /// CanceledByUser status
+        /// </summary>
         CanceledByUser
     }
 }
