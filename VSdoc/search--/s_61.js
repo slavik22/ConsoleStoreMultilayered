@@ -1,1 +1,0 @@
-search_result['61']=["topic_0000000000000029.html","UserMenu.CheckBalance Method","Check user\u0027s balance"];

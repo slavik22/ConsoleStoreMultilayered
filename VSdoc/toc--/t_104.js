@@ -1,1 +1,0 @@
-c['104']=[['105',"LogOutHendler Delegate","topic_000000000000001F.html",0],['106',"UserMenu Constructor","topic_0000000000000021.html",0],['107',"Properties","topic_0000000000000019_props--.html",1],['109',"Methods","topic_0000000000000019_methods--.html",1],['121',"Events","topic_0000000000000019_events--.html",1],['123',"Fields","topic_0000000000000019_vars--.html",1]];

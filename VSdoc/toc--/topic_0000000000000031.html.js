@@ -1,1 +1,0 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_00000000000000AF.html"],['66',"ConsoleUI Namespace","topic_000000000000002D.html"],['67',"ConsoleStore Class","topic_000000000000002E.html"],['69',"Methods","topic_000000000000002E_methods--.html"],['70',"LogIn Method","topic_0000000000000031.html"]];

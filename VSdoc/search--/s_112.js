@@ -1,1 +1,0 @@
-search_result['112']=["topic_000000000000004F.html","User.Balance Property","money balance of user"];

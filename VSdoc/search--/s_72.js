@@ -1,1 +1,0 @@
-search_result['72']=["topic_000000000000002F.html","ConsoleStore Constructor","ConsoleStore constructor"];

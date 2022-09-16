@@ -1,1 +1,0 @@
-search_result['27']=["topic_0000000000000011.html","GuestMenu.GetOperators Method","Dictionary of guest\u0027s options"];
